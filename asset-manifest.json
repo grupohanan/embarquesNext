@@ -1,19 +1,25 @@
 {
   "files": {
-    "main.css": "/embarquesNext/static/css/main.ad0d16f7.css",
-    "main.js": "/embarquesNext/static/js/main.adffbd40.js",
+    "main.css": "/embarquesNext/static/css/main.3d574253.css",
+    "main.js": "/embarquesNext/static/js/main.29a3837e.js",
     "static/js/787.25912cde.chunk.js": "/embarquesNext/static/js/787.25912cde.chunk.js",
     "static/media/hd.jpg": "/embarquesNext/static/media/hd.967d13ec5d46d858d780.jpg",
     "static/media/itsok.png": "/embarquesNext/static/media/itsok.0544d2de12acbcd577d0.png",
+    "static/media/subirfacturas.png": "/embarquesNext/static/media/subirfacturas.b48a712652e42d100e27.png",
+    "static/media/multipleestatus.png": "/embarquesNext/static/media/multipleestatus.aafda7ac04de976064e3.png",
+    "static/media/paso2.png": "/embarquesNext/static/media/paso2.13c0fff956869845bd93.png",
+    "static/media/pendientesReg.png": "/embarquesNext/static/media/pendientesReg.c1635de5f5d410d6badd.png",
+    "static/media/inicio_vacio.png": "/embarquesNext/static/media/inicio_vacio.e1b4a8e9e565e33e9f7d.png",
     "static/media/emtydata.png": "/embarquesNext/static/media/emtydata.89844f97a83a3715930a.png",
+    "static/media/history.png": "/embarquesNext/static/media/history.b6b32015fbd8ca1ff3cd.png",
     "static/media/LOGOHORIZONTAL.png": "/embarquesNext/static/media/LOGOHORIZONTAL.1aa70dc72b157a1b6867.png",
     "index.html": "/embarquesNext/index.html",
-    "main.ad0d16f7.css.map": "/embarquesNext/static/css/main.ad0d16f7.css.map",
-    "main.adffbd40.js.map": "/embarquesNext/static/js/main.adffbd40.js.map",
+    "main.3d574253.css.map": "/embarquesNext/static/css/main.3d574253.css.map",
+    "main.29a3837e.js.map": "/embarquesNext/static/js/main.29a3837e.js.map",
     "787.25912cde.chunk.js.map": "/embarquesNext/static/js/787.25912cde.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad0d16f7.css",
-    "static/js/main.adffbd40.js"
+    "static/css/main.3d574253.css",
+    "static/js/main.29a3837e.js"
   ]
 }
